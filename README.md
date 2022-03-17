@@ -1,5 +1,7 @@
 # buildinfo
 
+[![Go Report Card](https://goreportcard.com/badge/github.com/konradasb/buildinfo)](https://goreportcard.com/report/github.com/konradasb/buildinfo)
+
 Golang package which parses `debug.ReadBuildInfo()` BuildInfo.Settings slice into map
 
 ## Requires
